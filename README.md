@@ -23,9 +23,10 @@ Podemos, por meio da tecnología, agregar positivamente na solução do mapeamen
 
   ### Orientação para uso 
   Atenção: É necessário utilizar os seguintes comando para o projeto ser executado:
-  pip install folium
-  pip install Pillow
-  pip install tk
+  
+  - pip install folium
+  - pip install Pillow
+  - pip install tk
  
 
 ## Passos para o futuro
@@ -36,13 +37,12 @@ Podemos, por meio da tecnología, agregar positivamente na solução do mapeamen
 
 <table>
   <tr>
-    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/756d53b6-8031-4811-99f3-6ad4b243bed1" width="150px;" alt=""/><br /><sub><a href="https://github.com/barbarafernandesmadera"><b>Bárbara Madera</b></a></sub></a><br /></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/75ee5633-b94a-4646-ad35-543f293a8c0b" width="150px;" alt=""/><br /><sub><a href="https://github.com/danimodesti"><b>Danielle Modesti</b></a></sub></a><br /></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/bbd21998-6b3c-44d9-9221-0736536838fe" width="150px;" alt=""/><br /><sub><a href="https://github.com/jaquelinedahora"><b>Jaqueline da Hora</b></a></sub</a><br /></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/1567885b-4694-4bf9-b1c9-7536f2223361" width="150px;" alt=""/><br /><sub><a href="https://github.com/JohanaPizarroL"><b>Johana Pizarro</b></a></sub></a><br /></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/ba58b039-576e-4331-aa06-815ec19a1617" width="150px;" alt=""/><br /><sub><a href="https://github.com/barbarafernandesmadera"><b>Bárbara Madera</b></a></sub></a><br /></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/2e96e995-0338-44e7-aa4e-a87d49dcb933" width="150px;" alt=""/><br /><sub><a href="https://github.com/danimodesti"><b>Danielle Modesti</b></a></sub></a><br /></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/e90c2cd5-f29d-4d24-9318-d82945aa2e26" width="150px;" alt=""/><br /><sub><a href="https://github.com/jaquelinedahora"><b>Jaqueline da Hora</b></a></sub</a><br /></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/fcb39e91-8242-40fd-8cdb-ffb889faac4f" width="150px;" alt=""/><br /><sub><a href="https://github.com/JohanaPizarroL"><b>Johana Pizarro</b></a></sub></a><br /></td>
   
 </table>
-
 
 ## Agradecimento
 Agradecemos a oportunidade de poder desenvolver este projeto, a toda organização do SheHacks 2023 e a Microsoft Reactor por nos fornecer este espaço, que nos permite ajudar a população a cumprir nossos deveres como cidadãs.
