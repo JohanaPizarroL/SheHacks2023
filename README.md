@@ -77,8 +77,8 @@ Ferramentas que usadas neste projeto
 
 <table>
   <tr>
-    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/756d53b6-8031-4811-99f3-6ad4b243bed1" width="150px;" alt=""/><br /><sub><a href="https://github.com/danimodesti"><b>Danielle Modesti</b></a></sub></a><br /></td>
-    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/75ee5633-b94a-4646-ad35-543f293a8c0b" width="150px;" alt=""/><br /><sub><a href="https://github.com/barbarafernandesmadera"><b>Bárbara Madera</b></a></sub></a><br /></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/756d53b6-8031-4811-99f3-6ad4b243bed1" width="150px;" alt=""/><br /><sub><a href="https://github.com/barbarafernandesmadera"><b>Bárbara Madera</b></a></sub></a><br /></td>
+    <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/75ee5633-b94a-4646-ad35-543f293a8c0b" width="150px;" alt=""/><br /><sub><a href="https://github.com/danimodesti"><b>Danielle Modesti</b></a></sub></a><br /></td>
     <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/bbd21998-6b3c-44d9-9221-0736536838fe" width="150px;" alt=""/><br /><sub><a href="https://github.com/jaquelinedahora"><b>Jaqueline da Hora</b></a></sub</a><br /></td>
     <td align="center"><img style="border-radius: 50%;" src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/1567885b-4694-4bf9-b1c9-7536f2223361" width="150px;" alt=""/><br /><sub><a href="https://github.com/JohanaPizarroL"><b>Johana Pizarro</b></a></sub></a><br /></td>
   
