@@ -20,8 +20,12 @@ Podemos, por meio da tecnología, agregar positivamente na solução do mapeamen
 ### Dataset Austin Animal Center Stray Map
   O seguinte arquivo dataset é utilizado para listar animais abandonados da cidade de Austin(Texas). Ele foi usado como base de dados para o projeto. Não foi utilizado um arquivo nacional equivalente pela ausência de arquivos com requisições necessárias para a boa análise do projeto.
 
-  ### Orientação para uso
-  ![orientacao](https://github.com/JohanaPizarroL/SheHacks2023/assets/108741877/15cfda23-3da8-423b-bf48-68e637198a26)
+  ### Orientação para uso 
+  Atenção: É necessário utilizar os seguintes comando para o projeto ser executado:
+  pip install folium
+  pip install Pillow
+  pip install tk
+ 
 
 ## Passos para o futuro
 - Localizar voluntários, de acordo com o mapeamento da zona, que possam oferecer ajuda, seja cuidando de alguns animaizinhos, tratando suas potenciais doenças e ferimentos, seja com lar temporário para alguns, por exemplo.
