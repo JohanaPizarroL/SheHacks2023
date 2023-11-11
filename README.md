@@ -3,74 +3,23 @@
 Cidadania é o conjunto de direitos e deveres que os indivíduos têm como membros de uma sociedade. É importante para garantir a igualdade e a justiça social. O uso da tecnologia para promover os direitos e deveres dos cidadãos é uma ferramenta poderosa, pois pode ajudar a garantir que todos os cidadãos tenham os mesmos direitos e oportunidades, independentemente de sua origem, raça, religião, sexo, deficiência ou condição social.
 
  
-<h1 align="center"> Site de petzinhos </h1>
+<td align="center"><img src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/bca77721-ae1c-4e45-a2d5-e1c8a6b72d77" width="65px; alt=""/><br /></a><br /> </td> <h1 align="center"> PET SNAP </h1>
 
-Com a finalidade de melhorar tal coisa... Podemos, por meio da tecnología, agregar positivamente na solução de ....
+## Problema principal 
+O abandono de animais é um problema sério que afeta milhões de animais todos os anos.As principais causas do abandono são a irresponsabilidade dos donos, a mudança de estilo de vida e a falta de recursos financeiros. Os animais abandonados podem sofrer com fome, sede, doenças, maus-tratos e até mesmo morte. Para combater o abandono, é importante conscientizar a população sobre a responsabilidade de ter um animal de estimação e que temos o dever de protegê-los. Outro grande problema presente é que muitas pessoas que gostariam de adotar, buscam um perfil específico de animalzinhos. Dependendo de onde elas mora, se é ou não permitido ter pets de grande porte,
 
+## Objetivo 
+Primeiramente com a finalidade de melhorar o problema do abandono de animais, cadastrar, encontrar um lar temporário e até mesmo adotar, pensamos em um site, cuja finalidade basicamente é registrar animais perdidos, abandonados ou encontrados em uma determinada área de localização. Podemos, por meio da tecnología, agregar positivamente na solução do mapeamento de animais de estimação que se encontram em situação de rua. Assi, cadastrando eles, adicionando a uma base de dados e assim, poder acionar os órgãos responsáveis.
 
-
-Avaliacao - podemos usar projetos que ja existem
-criatividade - nos mesmas que criamos, se copiamos o 
-
-
-
-impacto
-
-design - tema, coisa autorial, ui, ux
-
-funciinamento - interface, 
-
-
-## 1. Qual é o problema principal?
-
-
-## 2. Quem ajudamos? Qual é o público alvo?
-
-
-## 3. Qual é a nossa solução?
-
-## 4. Qual é a solucao para falha
-
-
-
-## 5. Porque a nossa ideia é boa?
-
-
-
-## 6. Planos futuros?
-
-
-----------
-
-
-## Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
 
 ## Objetivo principal (atual)
-  Nosso principal objetivo é, por meio de fotos e dados coletados por pessoas random, mapear eles e criar uma base de dados onde os petzin que nao tem casinha estejam registrados dentro de um raio específico, assim porder acionar os órgaos responsáveis, de maneira mais eficiente, para que tomem cuidados necessários no momento ...
+  Nosso principal objetivo é, por meio de fotos e dados coletados por pessoas de distintas localizações, mapear eles e criar uma base de dados onde se encontrem animais que não tem casinha ou animais que estejam passando por situações de necessidade. Logo após que eles estejam registrados na nossa base de dados, porderemos contatar os órgaos responsáveis, de maneira mais eficiente, para que tomem cuidados necessários no momento. 
 
 
 ## Passos para o futuro
-- Localizar voluntários, de acordo com o mapeamento da zona, que possam brindar ajuda como cuidar de alguns petzin, ou ajudar com lar temporários para alguns, por exemplo
-- Ao ter esses petzin mapeados, cadastrados e cuidados, disponibilizar um "tinder" de adoção
-- 
+- Localizar voluntários, de acordo com o mapeamento da zona, que possam brindar ajuda como cuidar de alguns animaizinhos, ou ajudar com lar temporário para alguns, por exemplo.
+- Ao ter os animaizinhos mapeados, cadastrados e cuidados, planejamos futuramente desenvolver um "tinder" de adoção. Onde estarão disponíveis informações gerais como raçam, idade, vacinas, tamanho, entre outros dos animaizinhos, assim podendo facilitar o processo de adoção em ambas partes.
 
-
-
-## Construído com ajuda de:
-
-Ferramentas que usadas neste projeto
-
-* [nomezin](link) - O framework web usado
 
 
 ## Autoras
@@ -85,9 +34,7 @@ Ferramentas que usadas neste projeto
 </table>
 
 
-
-
 ## Agradecimento
-Agradecemos a oportunidade de poder desenvolver este projeto a toda organização do She Hacks 2023 e a Microsoft Reactor.
+Agradecemos a oportunidade de poder desenvolver este projeto, a toda organização do She Hacks 2023 e a Microsoft Reactor por nos brindar este espaço, que nos permite ajudar a população a cumprir nossos deveres como cidadão.
 
 
