@@ -33,6 +33,16 @@ Podemos, por meio da tecnología, agregar positivamente na solução do mapeamen
 - Localizar voluntários, de acordo com o mapeamento da zona, que possam oferecer ajuda, seja cuidando de alguns animaizinhos, tratando suas potenciais doenças e ferimentos, seja com lar temporário para alguns, por exemplo.
 - Ao ter os animaizinhos mapeados, cadastrados e cuidados, planejamos futuramente desenvolver um "tinder" de adoção, onde estarão disponíveis informações gerais como raça, idade, vacinas, tamanho, entre outros dados dos animais, assim podendo facilitar o processo de adoção para ambas as partes.
 
+
+[pet_snap_vi.mov.zip](https://github.com/JohanaPizarroL/SheHacks2023/files/13326468/pet_snap_vi.mov.zip)
+
+
+[pet snap.pdf](https://github.com/JohanaPizarroL/SheHacks2023/files/13326474/pet.snap.pdf)
+
+
+[Link da apresentação](https://www.canva.com/design/DAFz4r_AXec/CxOwltF45bzzg-3TIC-Rbg/edit)
+
+
 ## Autoras
 
 <table>
