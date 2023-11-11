@@ -17,6 +17,8 @@ Podemos, por meio da tecnología, agregar positivamente na solução do mapeamen
 ## Objetivo principal (atual)
   Nosso principal objetivo é, por meio de fotos e dados coletados por pessoas de distintas localizações, criar um mapemaneto de onde se encontrem animais que não tem casinha ou animais que estejam passando por situações de necessidade. Logo após que eles estejam registrados na nossa base de dados, instituições de cuidado com animais podem tomar providências de maneira mais eficiente, centralizada e integrada, aumentando a informação de todos os interessados.
 
+### Dataset Austin Animal Center Stray Map
+  O seguinte arquivo dataset é utilizado para listar animais abandonados da cidade de Austin(Texas). Ele foi usado como base de dados para o projeto. Não foi utilizado um arquivo nacional equivalente pela ausência de arquivos com requisições necessárias para a boa análise do projeto.
 
   ### Orientação para uso
   ![orientacao](https://github.com/JohanaPizarroL/SheHacks2023/assets/108741877/15cfda23-3da8-423b-bf48-68e637198a26)
