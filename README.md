@@ -17,7 +17,6 @@ Podemos, por meio da tecnología, agregar positivamente na solução do mapeamen
 ## Objetivo principal (atual)
   Nosso principal objetivo é, por meio de fotos e dados coletados por pessoas de distintas localizações, criar um mapemaneto de onde se encontrem animais que não tem casinha ou animais que estejam passando por situações de necessidade. Logo após que eles estejam registrados na nossa base de dados, instituições de cuidado com animais podem tomar providências de maneira mais eficiente, centralizada e integrada, aumentando a informação de todos os interessados.
   
-
 ## Passos para o futuro
 - Localizar voluntários, de acordo com o mapeamento da zona, que possam oferecer ajuda, seja cuidando de alguns animaizinhos, tratando suas potenciais doenças e ferimentos, seja com lar temporário para alguns, por exemplo.
 - Ao ter os animaizinhos mapeados, cadastrados e cuidados, planejamos futuramente desenvolver um "tinder" de adoção, onde estarão disponíveis informações gerais como raça, idade, vacinas, tamanho, entre outros dados dos animais, assim podendo facilitar o processo de adoção para ambas as partes.
@@ -36,5 +35,3 @@ Podemos, por meio da tecnología, agregar positivamente na solução do mapeamen
 
 ## Agradecimento
 Agradecemos a oportunidade de poder desenvolver este projeto, a toda organização do SheHacks 2023 e a Microsoft Reactor por nos fornecer este espaço, que nos permite ajudar a população a cumprir nossos deveres como cidadãs.
-
-
