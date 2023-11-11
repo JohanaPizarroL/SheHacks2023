@@ -3,7 +3,8 @@
 Cidadania é o conjunto de direitos e deveres que os indivíduos têm como membros de uma sociedade, importante para garantir a igualdade e a justiça social. O uso da tecnologia para promover os direitos e deveres dos cidadãos é uma ferramenta poderosa, pois pode ajudar a garantir que todos os cidadãos tenham oportunidades, independentemente de sua origem, raça, religião, sexo, deficiência ou condição social.
 
  
-<td align="center"><img src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/bca77721-ae1c-4e45-a2d5-e1c8a6b72d77" width="65px; alt=""/><br /></a><br /> </td> <h1 align="center"> PET SNAP </h1>
+<td align="center"><img src="https://github.com/JohanaPizarroL/SheHacks2023/assets/102596180/cb3c844b-0856-40fa-b92b-79e3e4253a76" width="100px; alt=""/><br /></a><br /> </td> <h1 align="center"> PET SNAP </h1>
+
 
 ## Problema principal 
 O abandono é um problema sério que afeta milhões de animais todos os anos. As principais causas do abandono são a irresponsabilidade dos donos, a mudança de estilo de vida e a falta de recursos financeiros. Os animais abandonados podem sofrer com fome, sede, doenças, maus-tratos e até mesmo morte. Para combater o abandono, é importante conscientizar a população sobre a responsabilidade de ter um animal de estimação e que temos o dever de protegê-los, pois seus direitos são praticamente inexistentes (os animais são considerados bens móveis, segundo artigo 82 do Código Civil). Outro grande problema presente é que muitas pessoas que gostariam de adotar buscam um perfil específico de animaizinhos, com restrições raras de se cumprir, dependendo também da região onde elas moram e se é ou não permitido ter pets de grande porte. Assim, seria preferível que animais em situação mais vulnerável, como os de rua, fossem adotados, a fim de minimizar o seu sofrimento.
