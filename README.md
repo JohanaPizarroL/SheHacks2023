@@ -27,7 +27,7 @@ Podemos, por meio da tecnología, agregar positivamente na solução do mapeamen
   - pip install folium
   - pip install Pillow
   - pip install tk
- 
+ Este programa foi rodado no Linux Ubuntu 22.04 e Linux Mint Vera 21.1 .
 
 ## Passos para o futuro
 - Localizar voluntários, de acordo com o mapeamento da zona, que possam oferecer ajuda, seja cuidando de alguns animaizinhos, tratando suas potenciais doenças e ferimentos, seja com lar temporário para alguns, por exemplo.
